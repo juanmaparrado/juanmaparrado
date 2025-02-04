@@ -41,10 +41,9 @@
 - **Lenguajes:** Python, JavaScript, PHP, C.
 - **Frameworks:** Langchain, FastAPI, Laravel, Node.js.
 - **Bases de Datos:** MongoDB, MySQL, PostgreSQL, ElasticSearch.
-- **DevOps:** Docker, Jenkins, GitHub, GitLab.
+- **DevOps:** Docker, Jenkins, GitHub, GitLab,Kibana.
 - **Metodologías:** Agile, Scrum, Kanban.
 
----
 
 ## 📜 Certificaciones
 
